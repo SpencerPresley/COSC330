@@ -3,12 +3,12 @@ How to run:
 2 ways:
 Non-github
     create a directory named Lab1_TicTacToe
-    add Board.java, Game.java, Main.java, Player.java, and runGame.sh to the directory
+    add Board.java, Game.java, Main.java, Player.java, and runGame to the directory
     In the terminal navigate to the Lab1_TicTacToe directory you just made
     Run the following in the terminal:
-        chmod u+x runGame.sh
+        chmod u+x runGame
     Then run the following in the terminal:
-        ./runGame.sh
+        ./runGame
 
 Github:
     clone the below repository to a directory of your choice
@@ -16,8 +16,8 @@ Github:
 
     Via the terminal, navigate to the repository directory (Lab1_TicTacToe)
     Run the following in the terminal:
-        chmod u+x runGame.sh
+        chmod u+x runGame
     Then run the following in the terminal:
-        ./runGame.sh
+        ./runGame
 
 Have fun!
