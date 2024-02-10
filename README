@@ -1,0 +1,16 @@
+To compile and run follow these steps
+
+Add the ToeTacTic directory to a directory you'd like to work from
+
+Via the terminal navigate into the ToeTacTic directory
+
+Run the following on the command line:
+javac *.java
+
+Go up one directory via:
+cd ..
+
+Run the following on the command line:
+java -cp . ToeTacTic.Main
+
+Have fun!
