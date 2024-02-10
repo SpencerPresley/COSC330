@@ -11,6 +11,6 @@ Go up one directory via:
 cd ..
 
 Run the following on the command line:
-java -cp . ToeTacTic.Main
+java -cp . {NameOfDirectoryContainingFiles}.Main
 
 Have fun!
