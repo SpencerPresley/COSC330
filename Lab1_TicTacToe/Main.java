@@ -1,5 +1,5 @@
-package ToeTacTic;
-import ToeTacTic.Game;
+package Lab1_TicTacToe;
+import Lab1_TicTacToe.Game;
 
 public class Main {
     public static void main(String[] args) {

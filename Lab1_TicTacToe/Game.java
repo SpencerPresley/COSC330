@@ -1,6 +1,6 @@
-package ToeTacTic;
-import ToeTacTic.Board;
-import ToeTacTic.Player;
+package Lab1_TicTacToe;
+import Lab1_TicTacToe.Board;
+import Lab1_TicTacToe.Player;
 import java.util.Scanner;
 
 public class Game {

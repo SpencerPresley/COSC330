@@ -1,5 +1,5 @@
-package ToeTacTic;
-import ToeTacTic.Player;
+package Lab1_TicTacToe;
+import Lab1_TicTacToe.Player;
 
 public class Board {
     private char [][] board;

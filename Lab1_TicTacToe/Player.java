@@ -1,4 +1,4 @@
-package ToeTacTic;
+package Lab1_TicTacToe;
 
 public class Player {
     // private variables
