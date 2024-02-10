@@ -1,5 +1,9 @@
 How to run:
 
+Two ways: 1 just put all the files into a directory and then follow the steps. 2 clone the github repository to a folder and then follow the steps.
+
+github link: https://github.com/SpencerPresley/COSC330/tree/main/Lab1_TicTacToe
+
 1) Ensure the directory is named 'Lab1_TicTacToe'
     if it isn't do the following in your terminal (must be in directory with this folder in it)
     mv {currentDirectoryName} Lab1_TicTacToe
