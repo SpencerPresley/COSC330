@@ -1,21 +1,23 @@
 How to run:
 
-Two ways: 1 just put all the files into a directory and then follow the steps. 2 clone the github repository to a folder and then follow the steps.
+2 ways:
+Non-github
+    create a directory named Lab1_TicTacToe
+    add Board.java, Game.java, Main.java, Player.java, and runGame.sh to the directory
+    In the terminal navigate to the Lab1_TicTacToe directory you just made
+    Run the following in the terminal:
+        chmod u+x runGame.sh
+    Then run the following in the terminal:
+        ./runGame.sh
 
-github link: https://github.com/SpencerPresley/COSC330/tree/main/Lab1_TicTacToe
+Github:
+    clone the below repository to a directory of your choice
+    github repository link: https://github.com/SpencerPresley/COSC330/tree/main/Lab1_TicTacToe
 
-1) Ensure the directory is named 'Lab1_TicTacToe'
-    if it isn't do the following in your terminal (must be in directory with this folder in it)
-    mv {currentDirectoryName} Lab1_TicTacToe
-
-2) Compilation:
-    Open your terminal/ command prompt
-    Navigate to the parent directory of Lab1_TicTacToe, if you're coming from step one you should already be here but if not you need to move there via the cd command
-    Run the following command in your terminal or command prompt:
-        javac Lab1_TicTacToe/*.java
-
-3) Running the game:
-    Run the following command from the parent directory of Lab1_TicTacToe:
-        java -cp . Lab1_TicTacToe.Main
+    Via the terminal, navigate to the repository directory (Lab1_TicTacToe)
+    Run the following in the terminal:
+        chmod u+x runGame.sh
+    Then run the following in the terminal:
+        ./runGame.sh
 
 Have fun!
