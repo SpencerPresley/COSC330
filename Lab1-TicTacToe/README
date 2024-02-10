@@ -1,16 +1,16 @@
 To compile and run follow these steps
 
-Add the ToeTacTic directory to a directory you'd like to work from
+Add the Lab1-TicTacToe directory to a directory you'd like to work from (clone it into that directory)
 
 Via the terminal navigate into the ToeTacTic directory
 
-Run the following on the command line:
+Run the following on the command line in order to compile the java files:
 javac *.java
 
-Go up one directory via:
+Go up one directory via (this would be back to the directory that you cloned this directory into, so if you clone Lab1-TicTacToe into a directory named COSC330 you should be in COSC330):
 cd ..
 
 Run the following on the command line:
-java -cp . {NameOfDirectoryContainingFiles}.Main
+java -cp . Lab1-TicTacToe.Main
 
 Have fun!
